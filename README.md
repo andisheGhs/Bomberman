@@ -18,7 +18,8 @@ A Java-based multiplayer implementation of the classic Bomberman game featuring 
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [Future Enhancements](#future-enhancements)
-- [License](#license)
+
+[//]: # (- [License]&#40;#license&#41;)
 
 ## ✨ Features
 
